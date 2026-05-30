@@ -14,6 +14,7 @@ Automatic stock deduction
 Calculate inventory value
 Save sales reports to a file
 User-friendly menu system
+
 🛠 Technologies Used:
 
 Python 3
@@ -24,6 +25,7 @@ Loops
 Lists and Dictionaries
 File Handling
 Time Module
+
 📚 Concepts Used:
 
 Variables and Data Types
@@ -34,6 +36,7 @@ Loops (for, while)
 Conditional Statements (if-elif-else)
 File Handling
 String Manipulation
+
 🎯 Project Objectives:
 
 Manage dairy product inventory.
@@ -41,6 +44,7 @@ Track stock and prices efficiently.
 Generate bills automatically.
 Maintain sales records.
 Calculate total inventory value.
+
 🚀 Future Enhancements:
 
 User Login System
